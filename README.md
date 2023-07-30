@@ -28,7 +28,7 @@ In this session we look at project roles and their correspondence to formal IAM 
 
 9) Git/gitolite/credentials
 
-10) CollaboratorDb with Genentech
+10) [CollaboratorDb](https://github.com/CollaboratorDB) with Genentech
 
 Proposed projects:
 
