@@ -28,6 +28,8 @@ In this session we look at project roles and their correspondence to formal IAM 
 
 9) Git/gitolite/credentials
 
+10) CollaboratorDb with Genentech
+
 Proposed projects:
 
 - P1.  All hands. Lead: Bob.  Propose and add one or more SOPs.
