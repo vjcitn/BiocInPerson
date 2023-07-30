@@ -30,9 +30,13 @@ In this session we look at project roles and their correspondence to formal IAM 
 
 Proposed projects:
 
-P1.  All hands. Lead: Bob.  Propose and add one or more SOPs.
-P2.  Hub team.  Lead: Lori.  Validate Hub contents.
-P3.  BBS team  Lead: Jen.  Assess history of BBS ontime reporting.  Review and demonstrate templating.
-P4.  All hands.  Lead: Alex. Git hub actions components and their road maps.  Which actions should be owned by Bioconductor?  What can we recommend as workflow yaml practices?
-P5.  Book team.  Lead: Marcel.  Review infrastructure and status of books.  Investigate new book offers from Laurent, Jacques Serizay and Leo Lahti.
+- P1.  All hands. Lead: Bob.  Propose and add one or more SOPs.
+
+- P2.  Hub team.  Lead: Lori.  Validate Hub contents.
+
+- P3.  BBS team  Lead: Jen.  Assess history of BBS ontime reporting.  Review and demonstrate templating.
+
+- P4.  All hands.  Lead: Alex. Git hub actions components and their road maps.  Which actions should be owned by Bioconductor?  What can we recommend as workflow yaml practices?
+
+- P5.  Book team.  Lead: Marcel.  Review infrastructure and status of books.  Investigate new book offers from Laurent, Jacques Serizay and Leo Lahti.
 
