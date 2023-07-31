@@ -4,7 +4,7 @@ Notes for in person meetings
 July 2023
 ---------
 
-We started with some [DEI guidlines](https://www.edomi.org/wp-content/uploads/2020/02/8-Guidelines-for-Equity-and-Inclusion.pdf)
+We started with some [DEI guidlines](https://www.edomi.org/wp-content/uploads/2020/02/8-Guidelines-for-Equity-and-Inclusion.pdf).  In a BWH presentation I attended these were credited to visions, inc.
 
 July 13, 2023 sketch of in-person meeting planned pre-conf
 
